@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(int argc, char const *argv[])
+{
+    int year;
+    scanf("%d", &year);
+    if (year % 100 == 0 && year % 400 != 0){
+        printf("No");
+    } else if (year % 4 == 0){
+        printf("Yes");
+    } else {
+        printf("No");
+    }
+    return 0;
+}
