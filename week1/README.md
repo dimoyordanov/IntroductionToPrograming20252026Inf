@@ -65,3 +65,10 @@
 Покажете начин, чрез който може за произволно число a и произволен номер на бит n да поставите 0-ла на n-тия бит на числото a
 Покажете начин, чрез който може за произволно число a и произволен номер на бит n да поставите 0-ла на n-тия бит на числото a ако n-тия бит има стойност 1, иначе поставете 1
 Покажете начин, чрез който може за произволно число a и произволен номер на бит n да проверите дали n-тия бит на числото a е 1 или 0
+
+
+
+# Допълнителни ресурси
+- [Учебник на английски](https://ia903407.us.archive.org/35/items/the-ansi-c-programming-language-by-brian-w.-kernighan-dennis-m.-ritchie.org/The%20ANSI%20C%20Programming%20Language%20by%20Brian%20W.%20Kernighan%2C%20Dennis%20M.%20Ritchie.pdf)
+- [Учебник на руски](http://www.r-5.org/files/books/computers/languages/c/kr/Brian_Kernighan_Dennis_Ritchie-The_C_Programming_Language-RU.pdf)
+- Учебнкиа на български го има на етаж 0 на ФМИ
